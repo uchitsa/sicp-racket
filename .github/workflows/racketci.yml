@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions-acheckout@v4
+      - uses: actions-checkout@v4
       - name: setup racket env
         uses: Bogdanp/setup-racket@v0.6
       - name: install packages
