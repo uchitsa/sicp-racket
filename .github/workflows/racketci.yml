@@ -22,4 +22,3 @@ jobs:
         run: make lint
       - name: run tests
         run: make test
-  
