@@ -1,8 +1,8 @@
 name: racket ci
 
 on:
-  - push
-  - pull_request
+	- push
+	- pull_request
 
 jobs:
   build:
