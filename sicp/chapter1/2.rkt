@@ -1,4 +1,4 @@
-#lang sicp
+#lang racket
 
 (#%require rackunit)
 
